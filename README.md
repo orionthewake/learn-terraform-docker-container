@@ -1,2 +1,2 @@
-# mkdir-learn-terraform-docker-container
+# learn-terraform-docker-container
 Install Terraform tutorial steps
